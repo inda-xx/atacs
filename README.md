@@ -1,2 +1,2 @@
 # atacs
-Adversarial Task Assessment for CS
+Adversarial Task description Assessment for Computer Science
